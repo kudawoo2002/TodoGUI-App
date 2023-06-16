@@ -7,3 +7,4 @@ cook, eat and learn python and JS
 New order
 add agyett
 Research on react
+Repair the table
